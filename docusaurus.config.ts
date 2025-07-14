@@ -73,6 +73,11 @@ const config: Config = {
           className: 'header-github-link',
         },
         {
+          href: 'https://discord.gg/XEVG92eHGX',
+          position: 'right',
+          className: 'header-discord-link',
+        },
+        {
           href: 'https://x.com/saeed_vz',
           position: 'right',
           className: 'header-x-link',
