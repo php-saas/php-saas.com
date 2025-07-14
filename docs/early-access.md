@@ -7,7 +7,7 @@ PHP-SaaS is currently in early access. This means that while the core features a
 The early access is only available to the Github Sponsors. You can become a sponsor by visiting the [GitHub Sponsors page](https://github.com/sponsors/saeedvaziry).
 
 :::tip
-Sponsoring to any tier will give you access to the early access.
+Sponsoring to any tier will give you access to the project.
 :::
 
 :::info
