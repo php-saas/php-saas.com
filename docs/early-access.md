@@ -10,10 +10,6 @@ The early access is only available to the Github Sponsors. You can become a spon
 Sponsoring to any tier will give you access to the project.
 :::
 
-:::info
-You will get access to the source code of PHP-SaaS via a private GitHub repository after you become a sponsor and I come back to my computer.
-:::
-
 ## What is included in the early access?
 
 You get the access to the source code of PHP-SaaS, which includes the following features:
