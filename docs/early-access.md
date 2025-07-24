@@ -33,7 +33,7 @@ You get the access to the source code of PHP-SaaS, which includes the following 
 - Code quality with PHPStan level 5 and ESLint
 - Code style with Laravel Pint and Prettier
 - GitHub Actions CI/CD (coming soon)
-- Cli tool to create new projects (coming soon)
+- Cli tool to create new projects
 
 ## How to contribute?
 
