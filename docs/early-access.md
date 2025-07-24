@@ -16,7 +16,7 @@ You get the access to the source code of PHP-SaaS, which includes the following 
 
 - PHP and Laravel
 - Inertia.js with React
-- Inertia.js with Vue (coming soon)
+- Inertia.js with Vue
 - Home pages with Blade and Alpine.js
 - Tailwind CSS
 - Shadcn UI
@@ -28,7 +28,7 @@ You get the access to the source code of PHP-SaaS, which includes the following 
 - Teams (coming soon)
 - Organizations (coming soon)
 - Tests with PHPUnit
-- Tests with Pest (coming soon)
+- Tests with Pest
 - 100% test coverage
 - Code quality with PHPStan level 5 and ESLint
 - Code style with Laravel Pint and Prettier
